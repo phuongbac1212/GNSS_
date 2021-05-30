@@ -10,5 +10,3 @@ com/GNSS/alpha/MainActivity.java
  com.GNSS.alpha.MainActivity
  com.GNSS.alpha.MainActivity$1
  com.GNSS.alpha.MainActivity$2
- com.GNSS.alpha.MainActivity$3
- com.GNSS.alpha.MainActivity$4
