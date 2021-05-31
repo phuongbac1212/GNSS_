@@ -29,7 +29,8 @@ public class MyApplication extends Application {
 
         try {
             ds = new DataStorage();
-            poster = new GNSS_Poster(getApplicationContext(), ds);
+            Log.e(TAG, "reach here1  ^^");
+            poster = new GNSS_Poster(this.getApplicationContext(), ds);
             reader = new GNSS_Reader(ds);
         } catch (IOException e) {
             Log.e(TAG, e.getMessage());

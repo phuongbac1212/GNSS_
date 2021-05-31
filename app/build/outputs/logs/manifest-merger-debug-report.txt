@@ -1,206 +1,206 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/fang/.gradle/caches/transforms-2/files-2.1/fad1a7e519eb7450d63f57ae39a33a7b/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/7f3fa8d587d4363e1ca9ee9b95b784e2/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.volley:volley:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8791c781ef62abac7b59ad07164cf6df/volley-1.1.1/AndroidManifest.xml:2:1-11:12
-MERGED from [org.allen.device:android-serialport:0.0.6] /home/fang/.gradle/caches/transforms-2/files-2.1/2cf57275cc26e17839e2552b0a87fabb/android-serialport-0.0.6/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/7c6a262b4f50579ecad6b3724ebe08d9/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/c5686b24c8adfbfccbfe61068ac7c49f/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b72fa9ed369d9858d0fb5986bb7236fe/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b625545188a320e0d23b3e969019b092/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/231bd3f62d452c1686a86dceddb50a92/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e6f4a04e02163bf11ecda043117f3475/loader-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/799752f7ab5f42ed6349356992c384fc/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/5929825c857518f2798a6a55425fb08f/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/20678bdc8e9825d9276479d130c67d2a/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/08e734783fefb2b47d7d06e73aba0ffc/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e9cc0f0e0dd2503b113a6576aef0520c/customview-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/04e6b76b6ad86ad2089fb68021b94ebc/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/3331232a1d0540faeecd5909d3ddf883/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/20dfc6e575b6f0806a233fe16bf403a6/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/47a6a4cbe650527abafad251a3895de1/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b29536638db7292f2819422afa21694f/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/75a0fb48320195389de42f99e74f0605/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/097f413583d095274abac7a6ab27aa97/print-28.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/4f0233fffabe21144e50178f9cde4274/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/3ff1dcd229f05d3ed6ea73e9bcec5fe8/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8dca7e011b2c99528440907406c0541e/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/6798853c956e78fbccb8ca635a9e6671/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/5c13844dbd3b484f42417ccecca0e693/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b4817a52f6180db52ef1ba0e2146261a\constraint-layout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\ad121e5115b63a45a99695924b79b2b9\volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [org.allen.device:android-serialport:0.0.6] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\def1ec2c121cbd31f9ef2a003aefc2ee\android-serialport-0.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
 	package
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:3:5-29
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:1-37:12
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:4:5-81
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:4:5-81
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:4:22-78
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:4:22-78
 uses-permission#android.permission.INTERNET
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:6:5-79
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:6:22-76
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:6:22-76
 uses-permission#com.google.android.things.permission.USE_PERIPHERAL_IO
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:7:5-94
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:7:5-94
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:7:22-91
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:7:22-91
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:8:22-78
 application
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:11:5-36:19
-MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/fang/.gradle/caches/transforms-2/files-2.1/fad1a7e519eb7450d63f57ae39a33a7b/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/fang/.gradle/caches/transforms-2/files-2.1/fad1a7e519eb7450d63f57ae39a33a7b/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8791c781ef62abac7b59ad07164cf6df/volley-1.1.1/AndroidManifest.xml:9:5-20
-MERGED from [com.android.volley:volley:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8791c781ef62abac7b59ad07164cf6df/volley-1.1.1/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:support-compat:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:11:5-36:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b4817a52f6180db52ef1ba0e2146261a\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b4817a52f6180db52ef1ba0e2146261a\constraint-layout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\ad121e5115b63a45a99695924b79b2b9\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\ad121e5115b63a45a99695924b79b2b9\volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 	android:requestLegacyExternalStorage
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:18:9-52
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:18:9-52
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:supportsRtl
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:16:9-35
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:17:9-43
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:17:9-43
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:12:9-38
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:12:9-38
 activity#com.GNSS.alpha.MainActivity
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:20:9-27:20
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:20:9-27:20
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:20:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:21:13-26:29
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:21:13-26:29
 action#android.intent.action.MAIN
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:23:17-77
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:23:27-74
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:23:27-74
 category#android.intent.category.HOME
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:24:17-73
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:24:17-73
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:24:27-70
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:24:27-70
 category#android.intent.category.DEFAULT
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:25:17-76
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:25:17-76
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:25:27-73
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:25:27-73
 receiver#com.GNSS.alpha.BootUpReceiver
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:28:9-34:20
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:28:9-34:20
 	android:enabled
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:28:19-41
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:28:19-41
 	android:permission
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:29:13-75
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:29:13-75
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:28:42-72
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:28:42-72
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED+category:name:android.intent.category.DEFAULT
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:30:13-33:29
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:30:13-33:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:31:17-79
+ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:31:17-79
 	android:name
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml:31:25-76
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml:31:25-76
 uses-sdk
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/fang/.gradle/caches/transforms-2/files-2.1/fad1a7e519eb7450d63f57ae39a33a7b/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/fang/.gradle/caches/transforms-2/files-2.1/fad1a7e519eb7450d63f57ae39a33a7b/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/7f3fa8d587d4363e1ca9ee9b95b784e2/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/7f3fa8d587d4363e1ca9ee9b95b784e2/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.volley:volley:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8791c781ef62abac7b59ad07164cf6df/volley-1.1.1/AndroidManifest.xml:7:5-43
-MERGED from [com.android.volley:volley:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8791c781ef62abac7b59ad07164cf6df/volley-1.1.1/AndroidManifest.xml:7:5-43
-MERGED from [org.allen.device:android-serialport:0.0.6] /home/fang/.gradle/caches/transforms-2/files-2.1/2cf57275cc26e17839e2552b0a87fabb/android-serialport-0.0.6/AndroidManifest.xml:7:5-9:41
-MERGED from [org.allen.device:android-serialport:0.0.6] /home/fang/.gradle/caches/transforms-2/files-2.1/2cf57275cc26e17839e2552b0a87fabb/android-serialport-0.0.6/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:support-fragment:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/7c6a262b4f50579ecad6b3724ebe08d9/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/7c6a262b4f50579ecad6b3724ebe08d9/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/c5686b24c8adfbfccbfe61068ac7c49f/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/c5686b24c8adfbfccbfe61068ac7c49f/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b72fa9ed369d9858d0fb5986bb7236fe/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b72fa9ed369d9858d0fb5986bb7236fe/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b625545188a320e0d23b3e969019b092/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b625545188a320e0d23b3e969019b092/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/231bd3f62d452c1686a86dceddb50a92/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/231bd3f62d452c1686a86dceddb50a92/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e6f4a04e02163bf11ecda043117f3475/loader-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e6f4a04e02163bf11ecda043117f3475/loader-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/799752f7ab5f42ed6349356992c384fc/viewpager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/799752f7ab5f42ed6349356992c384fc/viewpager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/5929825c857518f2798a6a55425fb08f/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/5929825c857518f2798a6a55425fb08f/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/20678bdc8e9825d9276479d130c67d2a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/20678bdc8e9825d9276479d130c67d2a/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/08e734783fefb2b47d7d06e73aba0ffc/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/08e734783fefb2b47d7d06e73aba0ffc/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e9cc0f0e0dd2503b113a6576aef0520c/customview-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e9cc0f0e0dd2503b113a6576aef0520c/customview-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/04e6b76b6ad86ad2089fb68021b94ebc/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/04e6b76b6ad86ad2089fb68021b94ebc/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/3331232a1d0540faeecd5909d3ddf883/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/3331232a1d0540faeecd5909d3ddf883/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/2a6c121eda6c2cbe33230f54b72bbbd4/support-compat-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/e02f1a1ec5b55e7809581065612f1348/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/20dfc6e575b6f0806a233fe16bf403a6/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/20dfc6e575b6f0806a233fe16bf403a6/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/47a6a4cbe650527abafad251a3895de1/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/47a6a4cbe650527abafad251a3895de1/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b29536638db7292f2819422afa21694f/documentfile-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/b29536638db7292f2819422afa21694f/documentfile-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/75a0fb48320195389de42f99e74f0605/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/75a0fb48320195389de42f99e74f0605/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/097f413583d095274abac7a6ab27aa97/print-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/097f413583d095274abac7a6ab27aa97/print-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/4f0233fffabe21144e50178f9cde4274/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/4f0233fffabe21144e50178f9cde4274/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/3ff1dcd229f05d3ed6ea73e9bcec5fe8/livedata-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/3ff1dcd229f05d3ed6ea73e9bcec5fe8/livedata-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8dca7e011b2c99528440907406c0541e/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/8dca7e011b2c99528440907406c0541e/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/6798853c956e78fbccb8ca635a9e6671/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /home/fang/.gradle/caches/transforms-2/files-2.1/6798853c956e78fbccb8ca635a9e6671/runtime-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/5c13844dbd3b484f42417ccecca0e693/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /home/fang/.gradle/caches/transforms-2/files-2.1/5c13844dbd3b484f42417ccecca0e693/interpolator-28.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b4817a52f6180db52ef1ba0e2146261a\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b4817a52f6180db52ef1ba0e2146261a\constraint-layout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\507866d230d6d0f86935c8fcde29738a\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\ad121e5115b63a45a99695924b79b2b9\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\ad121e5115b63a45a99695924b79b2b9\volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [org.allen.device:android-serialport:0.0.6] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\def1ec2c121cbd31f9ef2a003aefc2ee\android-serialport-0.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [org.allen.device:android-serialport:0.0.6] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\def1ec2c121cbd31f9ef2a003aefc2ee\android-serialport-0.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\33f3d1ec144d7271b96d5ced484d88c9\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2ea246c20a91481cc0f9ad545d596a80\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c4ae4f697c9c706603842eb98e159257\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b2569d2e0daad4c470813cf2a2814c53\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\194a48997cd22cfabd4cceb2b61a7a4c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\b1e51125e7aff4e28f369757e5a7680d\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\078b1937c1f0a1a7763edb777b6e4233\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\bcd39a65cc376626da8e5eae17457a21\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\e09daadbebb611c894200a1db3d7f5ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5e4a10c131b3f77cc45dafc70b581a6e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3f66d89691a33cdb421f209250d04a54\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6a798154032da4cbcedfe8555634d165\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9f87ca057fe495255f9b25101e3a5f92\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\950cafb7342b3be6b1e07c6190c89f13\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3233793d0ba361a7c43ba4a693940bda\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5e3898bd588380f7a6b352bb4d919c7d\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c43a1a3811e340201d858be457e62eeb\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\8a353bc0444ab37d7e83ee82937bcdef\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\da2cd36bbbaf62e3350af0a56d0a3944\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\25d0ed1b2a06a76f9992aa2b33aa8c11\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\150b36b0750cbabf3b53b3decd76508a\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4ee60583c0aa05073c5452c3d14820a6\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\62e5891d407cd4ef9df27905bd495354\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\faadb0893d40566a11d1cbcc0debb7c5\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\fbdfb75ba23908a4c4bf01e8a32cf6cb\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		ADDED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
-		INJECTED from /home/fang/AndroidStudioProjects/alpha/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\StudioProjects\GNSS_APK\app\src\main\AndroidManifest.xml

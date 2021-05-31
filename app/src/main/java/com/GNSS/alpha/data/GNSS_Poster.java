@@ -52,7 +52,6 @@ public class GNSS_Poster implements Runnable{
 
     @Override
     public void run() {
-
         try {
             jsonObject.put("_id", id);
             jsonObject.put("data", ds.popGNSS_Queue());

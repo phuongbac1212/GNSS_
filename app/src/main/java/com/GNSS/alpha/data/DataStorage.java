@@ -26,7 +26,7 @@ public class DataStorage {
     }
 
     public void putGNSS_Queue(String data) throws IOException {
-        Log.e(TAG, data);
+//        Log.e(TAG, data);
         this.GNSS_Queue.add(data);
 
 //        writer.append(data);
