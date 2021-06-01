@@ -1,15 +1,15 @@
 com/GNSS/alpha/MainActivity.java
  com.GNSS.alpha.MainActivity
-com/GNSS/alpha/BootUpReceiver.java
- com.GNSS.alpha.BootUpReceiver
-com/GNSS/alpha/MyExceptionHandler.java
- com.GNSS.alpha.MyExceptionHandler
 com/GNSS/alpha/BuildConfig.java
  com.GNSS.alpha.BuildConfig
 com/GNSS/alpha/data/GNSS_Reader.java
  com.GNSS.alpha.data.GNSS_Reader
+com/GNSS/alpha/MyExceptionHandler.java
+ com.GNSS.alpha.MyExceptionHandler
 com/GNSS/alpha/data/DataStorage.java
  com.GNSS.alpha.data.DataStorage
+com/GNSS/alpha/BootUpReceiver.java
+ com.GNSS.alpha.BootUpReceiver
 com/GNSS/alpha/MyApplication.java
  com.GNSS.alpha.MyApplication
 com/GNSS/alpha/data/GNSS_Poster.java

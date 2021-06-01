@@ -25,6 +25,10 @@ public class DataStorage {
         return this.GNSS_Queue.poll();
     }
 
+    public boolean isEmpty() {
+        return GNSS_Queue.isEmpty();
+    }
+
     public void putGNSS_Queue(String data) throws IOException {
 //        Log.e(TAG, data);
         this.GNSS_Queue.add(data);
