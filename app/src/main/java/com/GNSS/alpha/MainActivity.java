@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.os.ParcelFileDescriptor;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.android.volley.Request;
@@ -24,7 +25,6 @@ import java.io.InputStreamReader;
 import java.nio.ByteBuffer;
 import java.util.Date;
 public class MainActivity extends AppCompatActivity {
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -35,4 +35,5 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
+
 }
